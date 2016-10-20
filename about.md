@@ -5,6 +5,9 @@ permalink: /about/
 feature-img: "img/color.png"
 ---
 
+{:.center}
+![]({{ site.baseurl }}/img/head_pic.png)
+
 <br>
 
 WHO I AM <br>

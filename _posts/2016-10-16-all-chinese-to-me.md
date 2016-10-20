@@ -1,8 +1,9 @@
+---
 layout: post
 title: It's All Chinese To Me
+---
 
-IT'S ALL CHINESE TO ME
-What Chinese has taught me about software development
+How studying Chinese prepared me to learn software development
 
 My sophomore year of high school I made a spur-of-the-moment decision to swap Spanish for Mandarin Chinese as my foreign language credit. Why not, right? Thirteen years and a Bachelor’s, Master’s, and Fulbright scholarship later, proved what I thought would be a lighthearted, temporary foray into the world of Mandarin was actually a much weightier investment. Through this period Chinese has become infused into my bone marrow. It’s become an appendage I can’t imagine living without, a permanent part of my personality.
 
