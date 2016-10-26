@@ -6,7 +6,7 @@ feature-img: "img/color.png"
 ---
 
 Keep in touch, my friends. <br>
-Contact information:
+<br>
 
 <form action="https://getsimpleform.com/messages?form_api_token=897656da0775c0cb1115ce557b86939a" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->

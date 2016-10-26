@@ -7,7 +7,7 @@ short-description: A production quality SaaS app that allows users to create the
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/WikiOne Screen Shot.png)
+[<img src="/img/wikione_screen_shot.png">](https://github.com/tcburns24/WikiOne)
 
 ## Explanation
 

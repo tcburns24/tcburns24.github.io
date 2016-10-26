@@ -7,7 +7,7 @@ short-description: A social community app where users can create topics, write p
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/bloccit_screen_shot.png)
+[<img src="/img/bloccit_screen_shot.png">](https://github.com/tcburns24/bloccit3)
 
 ## Explanation
 

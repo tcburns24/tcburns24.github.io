@@ -7,7 +7,8 @@ short-description: Build a self-destructing to-do list application.
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/Blocitoff_screen_shot.png)
+[<img src="/img/blocitoff_screen_shot.png">](https://github.com/tcburns24/Blocitoff)
+
 
 ## Explanation
 
