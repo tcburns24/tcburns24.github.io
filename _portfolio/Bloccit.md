@@ -19,7 +19,7 @@ The only "problem" in this project was that it was my very first. As a newcomer 
 
 ## Solution
 
-Collaboration to the rescue. Bloc designs this project to be done with ample support from both my mentor, and the bloc curriculum. With consistent check-ins to both resource, I managed to complete the project and learn a ton about Rails in the process. Sometimes Rails is its own teacher!
+Collaboration to the rescue. Bloc designs this project to be done with ample support from both my mentor, and the bloc curriculum. With consistent check-ins to both resources, I managed to complete the project and learn a ton about Rails in the process. Sometimes Rails is its own teacher!
 
 
 ## Conclusion
