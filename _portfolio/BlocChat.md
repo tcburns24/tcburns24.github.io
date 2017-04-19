@@ -2,7 +2,7 @@
 layout: post
 title: Bloc Chat
 thumbnail-path: "img/bloc_chat.png"
-short-description: description
+short-description: A Chat Room app to keep in touch with friends
 
 ---
 
