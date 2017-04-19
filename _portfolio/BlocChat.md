@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bloc Chat
-thumbnail-path: "img/wikione_screen_shot.png"
+thumbnail-path: "img/bloc_chat.png"
 short-description: description
 
 ---
