@@ -6,4 +6,4 @@ feature-img: "img/color.png"
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/Resume.png)
+![]({{ site.baseurl }}/img/resume.png)
