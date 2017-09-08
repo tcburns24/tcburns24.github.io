@@ -2,7 +2,7 @@
 layout: page
 title: My Resumé
 permalink: /my_resume/
-feature-img: "img/resume.png"
+feature-img: "_site/img/resume.png"
 ---
 
 {:.center}
