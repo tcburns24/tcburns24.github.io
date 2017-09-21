@@ -7,8 +7,8 @@ short-description: A classic arcade game brought to you through the magic of Jav
 ---
 
 {:.center}
-[<img src="/img/whack-a-mole.png">]
-(https://github.com/tcburns24/whack-a-mole)
+[<img src="/img/whack-a-mole.png">](https://github.com/tcburns24/whack-a-mole)
+
 
 ## Explanation
 What arcade game is more efficient at stress relief than Whack-A-Mole? Just a few wollops to the face of those pesky moles can melt a day's stress away. The stress-relieving power of the arcade classic was my inspiration in building this static JavaScript app. 
