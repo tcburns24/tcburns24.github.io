@@ -3,11 +3,10 @@ layout: post
 title: Hangman
 thumbnail-path: "img/hang_man.png"
 short-description: A classic!
-
 ---
+
 {:.center}
 [<img src="/img/hang_man.png">](https://github.com/tcburns24/Hang_Man)
-
 
 ## Explanation
 
@@ -15,10 +14,9 @@ I have to admit, this one is special to me. Hangman represents the first side pr
 
 This idea was born over a lunch conversation with a software engineer at LinkedIn. He mentioned that he had built his own hangman app just for fun. All of a sudden, I had an itch I needed to scratch. That very same day, I found myself hacking away at the HTML for the app. I know, I know -- it's not the most complex app in the world, but like Hannibal from the A-Team says, "I love it when an app comes together!"
 
-
 ## What I'd Do Differently
 
-The most glaring weak spot about Hangman is that it can't be played over the web. Having to play a computer game with someone in the same room is sooo 2005! I'd like build a 2nd version of Hangman using Google Firebase so that users can play it remotely, a la Bloc Chat.
+The most glaring weak spot about Hangman is that it can't be played over the web. Having to play a computer game with someone in the same room is sooo 2005! I'd like build a 2nd version of Hangman using Google Firebase so that users can play it remotely.
 
 Secondly, I'd like to create functionality so that a user can input a word discreetly; where black dots fill the text box rather than the word's letters. This way, a user wouldn't need to look away while his opponent enters a word.
 

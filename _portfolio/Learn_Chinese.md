@@ -3,7 +3,6 @@ layout: post
 title: Learn Chinese
 thumbnail-path: "img/learnchinese.png"
 short-description: A static app where users can learn Chinese characters then test their knowledge.
-
 ---
 
 {:.center}
@@ -11,16 +10,15 @@ short-description: A static app where users can learn Chinese characters then te
 
 ## Explanation
 
-Learn Chinese is the intersection of my two fascinations: programming and Chinese. The opportunity to combine these two passions into one project was a blast. Learn Chinese is an app where users can enjoy a gameified introduction into learning Chinese characters. 
+Learn Chinese is the intersection of my two fascinations: programming and Chinese. The opportunity to combine these two passions into one project was a blast. Learn Chinese is an app where users can enjoy a gameified introduction into learning Chinese characters.
 
 ## Challenge
 
-Debugging was the challenge du jour. This project started as a fun personal side project on CodePen.io. Before long, it became a static Rack app. The transition from simple side project to legitimate project revealed the importance of keeping directories neat and organized. If I could go back and build this app again, I'd place more focus on structuring my directories so that they're more conducive for Rack's configuration. 
+Debugging was the challenge du jour. This project started as a fun personal side project on CodePen.io. Before long, it became a static Rack app. The transition from simple side project to legitimate project revealed the importance of keeping directories neat and organized. If I could go back and build this app again, I'd place more focus on structuring my directories so that they're more conducive for Rack's configuration.
 
 ## Solution
 
-A big thank you to my two Wisonsin-native Bloc mentors, Kevin and Cyle. Kevin was instrumental in getting the app off the ground, and Cyle was an enormous help in debugging. Without Cyle's familiarity with Rack, I wouldn't have the finished product that I have today. 
-
+A big thank you to my two Wisonsin-native Bloc mentors, Kevin and Cyle. Kevin was instrumental in getting the app off the ground, and Cyle was an enormous help in debugging. Without Cyle's familiarity with Rack, I wouldn't have the finished product that I have today.
 
 ## Conclusion
 
