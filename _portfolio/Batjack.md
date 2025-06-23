@@ -14,5 +14,13 @@ Take on the villains of Gotham city at the blackjack table. I built this full-st
 
 ## What's In It?
 
-• Database & Backend: Google Firebse
-• Frontend: Flutter
+• <strong>Database & Backend:</strong> Google Firebase <br />
+• <strong>Frontend:</strong> Flutter
+
+## Github Repo
+
+[Fire up the Batmobile](https://github.com/tcburns24/Batjack)
+
+## Web App
+
+[Hit me!](https://blacktom-549a8.web.app/)
