@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<link rel="stylesheet" href="/index.scss"></link>
+<link rel="stylesheet" href="/index.css"></link>
 
   <div class="home">
     <div class="work">
@@ -14,8 +14,17 @@ layout: default
           </a>
         </div>
         <div class="project-description">
-          <a href="{{ project.url | prepend: site.baseurl }}"><strong>{{ project.title }}</strong></a>
+          <a href="{{ project.url | prepend: site.baseurl }}">
+            <strong>{{ project.title }}</strong>
+          </a>
           <p>{{ project.short-description }}</p>
+        </div>
+        <div class="project-techs">
+          {% for tech in project.stack-images %}
+          <div class="tech-img-box">
+            <img src="{{ tech }}" alt="banana" />
+          </div>
+          {% endfor %}
         </div>
       </div>
       {% endfor %}

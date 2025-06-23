@@ -3,6 +3,7 @@ layout: post
 title: Batjack
 thumbnail-path: "img/batjack_3screen.png"
 short-description: A Batman-themed casino blackjack app built with the magic of Flutter.
+stack-images: ["img/firebase.png", "img/flutter.png"]
 ---
 
 {:.center}
