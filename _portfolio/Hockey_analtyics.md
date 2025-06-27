@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Hockey Analytics Dashboard
+title: Hockey Analytics Dashboard (coming soon)
 thumbnail-path: "img/hockey_analytics.jpg"
-short-description: A Batman-themed casino blackjack app built with the magic of Flutter.
+short-description: A hockey data visualizer that will revolutionize the way analysts see the sport.
 stack-images: ["img/dot_net.png", "img/mysql.png", "img/nextjs.png"]
 ---
 
